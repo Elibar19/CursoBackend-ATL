@@ -1,19 +1,19 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Comida",
+    "description": "Preguntas relacionadas con preparaciones culinarias de distintos paises."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Musica",
+    "description": "Preguntas relacionadas con musica internacional."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Matematicas",
+    "description": "Preguntas relacionadas con operaciones matematicas."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Universo",
+    "description": "Preguntas relacionadas con planetas, estrellas, galaxias."
   },
   {
     "category": "Historia",
