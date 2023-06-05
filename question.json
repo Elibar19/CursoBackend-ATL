@@ -1,7 +1,16 @@
+[
 {
   "category": "Universos",
   "question": "¿Cuantos planetas existen en el sistema solar?",
   "options": ["10", "12", "8"],
   "answer": 0,
   "explanation": "A lo largo de la historia ha ido cambiando la cantidad de planetas reconocidos en el sistema solar."
-}
+},
+  {
+    "category": "Comida",
+  "question": "¿Que ingredientes lleva la ensalada caesar?",
+  "options": ["Lechuga, tomate, cebolla, lentejas", "Lechuga, queso, pollo, crouton", "Remolacha, puerro, naranja"],
+  "answer": 0,
+  "explanation": "."
+  }
+ ]
